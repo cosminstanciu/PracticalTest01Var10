@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticalTest01Var10</string>
+    <string name="add">Add</string>
+    <string name="compute">Compute</string>
+    <string name="all_terms">All Terms</string>
+</resources>
